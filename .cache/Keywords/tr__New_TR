@@ -1,0 +1,23 @@
+{
+  "keywordFileContentHash": "3541670D2B02925E12022F1A5AD3186A",
+  "keywordClasses": [
+    {
+      "name": "tr.New_TR",
+      "keywordMethods": [
+        {
+          "name": "in_Process_waiting_For_Quote",
+          "parameters": []
+        },
+        {
+          "name": "waiting_For_Confirmation",
+          "parameters": []
+        },
+        {
+          "name": "confirmed",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

@@ -17,14 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://tms.dev.mytower.fr/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_username'), 'mytower2018+soungsid+chargeur@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_password'), 
-    'cQlZAR1V2CaThNHrQfGK3Q==')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_submit pointer'))
-

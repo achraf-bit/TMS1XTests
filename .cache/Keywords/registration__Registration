@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "097E7D355EE1FC4A542B40D6F5C74020",
+  "keywordClasses": [
+    {
+      "name": "registration.Registration",
+      "keywordMethods": [
+        {
+          "name": "registration",
+          "parameters": [],
+          "javadoc": "/**\n\t * Shipper registration\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

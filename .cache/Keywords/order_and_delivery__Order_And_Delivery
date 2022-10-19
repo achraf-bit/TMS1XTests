@@ -1,0 +1,19 @@
+{
+  "keywordFileContentHash": "9ECEA2C4C4E515D64E98629734013D8B",
+  "keywordClasses": [
+    {
+      "name": "order_and_delivery.Order_And_Delivery",
+      "keywordMethods": [
+        {
+          "name": "new_order",
+          "parameters": []
+        },
+        {
+          "name": "confirm_order",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
