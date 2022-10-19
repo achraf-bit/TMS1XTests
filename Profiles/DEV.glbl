@@ -3,7 +3,7 @@
    <description></description>
    <name>DEV</name>
    <tag></tag>
-   <defaultProfile>false</defaultProfile>
+   <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://prism.dev.mytower.io/login'</initValue>
