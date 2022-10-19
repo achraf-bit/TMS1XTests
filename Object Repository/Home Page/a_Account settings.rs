@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Account settings</name>
+   <tag></tag>
+   <elementGuidId>b6844c1f-6da9-4baa-8a33-cdc16c4aa20e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div/nav/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon.fa.fa-user</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>84ba0564-c31a-4608-ab0d-6fedfa6d5014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-user</value>
+      <webElementGuid>0070cfdb-e47a-4030-b139-d9608815072f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/app/user/settings/account-settings</value>
+      <webElementGuid>dbfb2118-cf19-4d56-80c9-f89c911a6450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/app/user/settings/account-settings</value>
+      <webElementGuid>2aa87eb1-e2d3-4a92-8c1f-7be1c800f1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account settings</value>
+      <webElementGuid>29fd16c7-df2e-4626-b456-eb84879ae81e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;head-tabs tabs-style-underline&quot;]/nav[1]/ul[1]/li[1]/a[@class=&quot;icon fa fa-user&quot;]</value>
+      <webElementGuid>3da43d2f-c7bc-4873-b29e-cdc32452b749</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div/nav/ul/li/a</value>
+      <webElementGuid>58e0c11b-6366-4bec-883c-ccfdcb283f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GSS-02181'])[1]/following::a[1]</value>
+      <webElementGuid>0ec02d73-f47a-41bf-8224-3441cd3ba436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLB-04495'])[1]/following::a[1]</value>
+      <webElementGuid>8291b907-7894-4347-854c-1b5b04f39ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My community'])[2]/preceding::a[1]</value>
+      <webElementGuid>18b55099-2591-426c-9dcc-296ef0982e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/app/user/settings/account-settings')])[3]</value>
+      <webElementGuid>d390ad37-1bdc-4142-9702-0de0df723b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/a</value>
+      <webElementGuid>ac909747-5ef0-4f88-848b-97b4d194ee0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/app/user/settings/account-settings' and (text() = 'Account settings' or . = 'Account settings')]</value>
+      <webElementGuid>bed5f8c5-c33b-4d83-b821-efb0fd21bbc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

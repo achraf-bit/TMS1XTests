@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert_Operation_Successfully_Completed</name>
+   <tag></tag>
+   <elementGuidId>bc040428-c81f-4444-b77b-19f309c8197f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-toast-detail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac1f5bc5-e189-4561-9ad2-75d0c01e4bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-toast-detail</value>
+      <webElementGuid>181370dc-8e87-48fd-873f-19a066b617ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operation successfully completed!</value>
+      <webElementGuid>ff787310-f5ec-4cef-b980-9a04d8a2aadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;background default-theme&quot;]/app-root[@class=&quot;default-theme&quot;]/p-toast[@class=&quot;ng-tns-c1-0&quot;]/div[@class=&quot;ng-tns-c1-0 ui-toast ui-widget ui-toast-top-right&quot;]/p-toastitem[@class=&quot;ng-tns-c6-3 ng-trigger ng-trigger-toastAnimation ng-tns-c1-0 ng-star-inserted&quot;]/div[@class=&quot;ui-toast-message ui-shadow ui-toast-message-success ng-trigger ng-trigger-messageState&quot;]/div[@class=&quot;ui-toast-message-content&quot;]/div[@class=&quot;ui-toast-message-text-content ng-tns-c6-3 ng-star-inserted&quot;]/div[@class=&quot;ui-toast-detail&quot;]</value>
+      <webElementGuid>2eb7352e-12ba-415d-a869-b009ed3b04a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[1]</value>
+      <webElementGuid>da4b783d-973c-4eb7-a0a3-a75f73b5b97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select user...'])[1]/preceding::div[1]</value>
+      <webElementGuid>ed4e31de-cf7f-4e17-8c6e-da34aabdf49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi, My Tower'])[1]/preceding::div[9]</value>
+      <webElementGuid>c3d84f2e-2012-48bf-a399-d8f475eef23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operation successfully completed!']/parent::*</value>
+      <webElementGuid>855cd21a-d481-4d55-8c2e-8400b2bb6c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>cb0133e1-4257-41b8-98a6-89059853d2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Operation successfully completed!' or . = 'Operation successfully completed!')]</value>
+      <webElementGuid>7644b355-2ded-4c89-9b09-39b5d2174381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

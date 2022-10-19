@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>e6b1b5e8-2b5d-4f6b-a80f-7343a9c76752</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.buttons > button.btn.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div[3]/div/fieldset/div/app-custom-fields/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>252a15a8-967b-41db-992f-f04925160c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm</value>
+      <webElementGuid>776badcc-0516-410b-80a7-40d6e9ddde1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add </value>
+      <webElementGuid>35bee6ba-7f2b-4493-8961-5224b70dbf53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-right-0-important&quot;]/div[@class=&quot;block-categorie&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/app-custom-fields[@class=&quot;col-md-12 col-xs-12 margin-top-20 ng-star-inserted&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;btn btn-sm&quot;]</value>
+      <webElementGuid>3e8a44ef-11ad-41cf-90eb-16ad42fab9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15ec9a7e-1376-474e-a84a-9db9c8e7fe36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm</value>
+      <webElementGuid>48937b91-9dc6-465b-95ef-65f9247fd8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add </value>
+      <webElementGuid>398f8a94-1c8e-4f15-9f07-0f57026b049b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-right-0-important&quot;]/div[@class=&quot;block-categorie&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/app-custom-fields[@class=&quot;col-md-12 col-xs-12 margin-top-20 ng-star-inserted&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;btn btn-sm&quot;]</value>
+      <webElementGuid>ad26af8a-41c5-464c-9eea-ba10ebdf6400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div[3]/div/fieldset/div/app-custom-fields/div/div/button</value>
+      <webElementGuid>1ef21f86-98b4-4467-91e5-8a8d438f197c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parametrable fields'])[1]/following::button[1]</value>
+      <webElementGuid>ffb439b0-9170-4ad8-8801-bfb667a4d1ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marie'])[1]/following::button[1]</value>
+      <webElementGuid>be11ab03-a1c7-42e2-9074-ec6881f5c559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[1]</value>
+      <webElementGuid>731e301d-9ddf-4ad0-a9cf-fe8f19a92f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>4c8f801b-e252-4768-acfa-b17408295998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-custom-fields/div/div/button</value>
+      <webElementGuid>dad1f90d-c95d-45c2-94e7-067653e43d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Add ' or . = ' Add ')]</value>
+      <webElementGuid>80ebba2b-768d-4300-b320-1df4c960d375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

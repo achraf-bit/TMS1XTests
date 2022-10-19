@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>7aba16cc-ee0c-4acf-ab2e-549aaf291623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.pull-right.btn.btn-sm.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-currency-etablissement/app-new-etablissement-currency-design/form/div/div[2]/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>13269d18-b63d-4b9d-8f02-8168d09f8e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right btn btn-sm btn-primary</value>
+      <webElementGuid>8819af12-b5df-4cb8-963c-10c9bf82b6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>9a53f005-9003-4967-b853-1ef73badd779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-currency-etablissement[@class=&quot;ng-star-inserted&quot;]/app-new-etablissement-currency-design[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[1]/div[@class=&quot;form-content col-sm-12 text-right margin-bottom-5&quot;]/div[@class=&quot;col-md-12&quot;]/button[@class=&quot;pull-right btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>b88f9e10-2c86-4e86-be7c-dc7e23e7fe41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-currency-etablissement/app-new-etablissement-currency-design/form/div/div[2]/div/button</value>
+      <webElementGuid>1847c578-a5ee-470f-ac37-ab3d311e5fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End'])[1]/following::button[2]</value>
+      <webElementGuid>24bc4220-540c-4c39-8baa-94ed843e1d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beginning'])[1]/following::button[3]</value>
+      <webElementGuid>3c5e5090-211a-4755-9108-f1351ab18999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::button[1]</value>
+      <webElementGuid>3c34a1ad-abd7-4991-9baf-3db6f970aea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>f190fada-d1b1-496a-b63f-ad0235abf611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>d16759dd-daa4-4a8a-a2a7-5eb1c01279b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>e89cdbfe-c8d3-4688-8202-ceba81adc434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>523cfb65-e904-4e79-8c2b-0354a7695b04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

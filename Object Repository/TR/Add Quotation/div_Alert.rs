@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alert</name>
+   <tag></tag>
+   <elementGuidId>70563595-066d-41b1-a946-9a1ac2077d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;alert-panel&quot;]/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.notify-notifs.d-flex-ai-fs.d-flex-w.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80d83be0-93ea-4ce5-a35f-12b0afa377e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notify-notifs d-flex-ai-fs d-flex-w ng-star-inserted</value>
+      <webElementGuid>fd77cae9-0c30-4ebd-82c3-9012963d86a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MyTower / FSY-A23413 /  Your Quotation Request was sent MyTower / FSY-A23413 /  Your Quotation Request was sent 02/08/2022 10:41 ×</value>
+      <webElementGuid>da028a68-ab5c-498e-a553-ec44c17f0dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-panel&quot;)/div[@class=&quot;scroller ng-star-inserted&quot;]/div[@class=&quot;notify-notifs d-flex-ai-fs d-flex-w ng-star-inserted&quot;]</value>
+      <webElementGuid>b1e4746b-98fb-4731-8ab6-567b6c58b28d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alert-panel']/div/div</value>
+      <webElementGuid>2107c8e0-4221-45a1-b35b-38f477450348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::div[4]</value>
+      <webElementGuid>29a19a08-255a-4ca8-8a25-635f509f5ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[1]/following::div[4]</value>
+      <webElementGuid>6e937ca5-9901-457f-be00-982d50f0d306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>de57b28b-be43-42cd-abfd-9d8afc5ca2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' MyTower / FSY-A23413 /  Your Quotation Request was sent MyTower / FSY-A23413 /  Your Quotation Request was sent 02/08/2022 10:41 ×' or . = ' MyTower / FSY-A23413 /  Your Quotation Request was sent MyTower / FSY-A23413 /  Your Quotation Request was sent 02/08/2022 10:41 ×')]</value>
+      <webElementGuid>b89b898a-c3d6-4f46-ae8e-5c32bd549646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Color</name>
+   <tag></tag>
+   <elementGuidId>8f2156ae-beac-4119-8f96-878a16ad50b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-colorpicker-hue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/form/div/div[2]/div/div[3]/div/p-colorpicker/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05e5fd66-5f63-421d-a7bf-aa5403e4cf0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-colorpicker-hue</value>
+      <webElementGuid>afaf6ba7-575b-4dab-8137-4b00432d1912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/form[@class=&quot;generic-default ng-star-inserted ng-invalid ng-dirty ng-touched&quot;]/div[1]/div[@class=&quot;form-content col-sm-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 new-formcontrol&quot;]/div[@class=&quot;col-md-8 padding-left-0-important padding-right-0-important&quot;]/p-colorpicker[@class=&quot;ng-tns-c30-4 ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;ng-tns-c30-4 ui-colorpicker ui-widget ui-colorpicker-overlay&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c30-4 ui-colorpicker-panel ui-corner-all ui-colorpicker-overlay-panel ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-colorpicker-content&quot;]/div[@class=&quot;ui-colorpicker-hue&quot;]</value>
+      <webElementGuid>d564f2e8-e32f-4700-a4e9-eeca5c233e68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/form/div/div[2]/div/div[3]/div/p-colorpicker/div/div/div/div[2]</value>
+      <webElementGuid>32c434ae-2b8c-49f8-980b-68ec765378b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::div[8]</value>
+      <webElementGuid>14d32f37-95f3-4f22-8862-a2316bb6453c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select icon...'])[1]/following::div[10]</value>
+      <webElementGuid>fee930ec-c87c-4c62-bc72-554105eb0058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/preceding::div[2]</value>
+      <webElementGuid>46d907d9-4014-44f2-ae66-39c93e8a953d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which action ?'])[1]/preceding::div[4]</value>
+      <webElementGuid>1d1f1f1a-b6a8-4387-bab1-9e94ea714c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-colorpicker/div/div/div/div[2]</value>
+      <webElementGuid>fcf4d5d6-4a20-4665-baf5-785b5f76503c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

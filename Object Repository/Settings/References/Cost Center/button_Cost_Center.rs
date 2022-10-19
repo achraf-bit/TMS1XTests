@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cost_Center</name>
+   <tag></tag>
+   <elementGuidId>8ef6215d-9e0c-4729-8aa6-0ea6a8c6f189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div/div/fieldset/div/form/div/div[2]/div/div[23]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52b01b6f-eaca-4bc6-bef3-22b56f0c273a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label label-default ng-star-inserted</value>
+      <webElementGuid>c2f9ea7c-1871-4526-b8b0-1d6b5fac14b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 12458555 </value>
+      <webElementGuid>cdb9c470-8a52-4439-9386-d94bce039eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-left-0-important&quot;]/div[@class=&quot;block-costcenters&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;form-content&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;costCenter col-xs-12 ng-star-inserted&quot;]/div[@class=&quot;label label-default ng-star-inserted&quot;]</value>
+      <webElementGuid>474e2437-1d8a-428a-b90d-6d7ba6eb84c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div/div/fieldset/div/form/div/div[2]/div/div[23]</value>
+      <webElementGuid>c4dc2505-179d-47c9-befb-daadfc736985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SRETXE24/H500'])[1]/following::div[1]</value>
+      <webElementGuid>343ab75f-ab60-4b98-9ef8-97cfabc3ed9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SRSGXMLO/B630'])[1]/following::div[3]</value>
+      <webElementGuid>5be6cb7b-1f2e-4bb8-b72d-09eb1ca4bafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::div[2]</value>
+      <webElementGuid>67ec76cb-627f-4e99-adbf-a9492005e9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Category'])[1]/preceding::div[2]</value>
+      <webElementGuid>830c2194-be84-4338-8c06-e9441596cae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]</value>
+      <webElementGuid>bbe213fb-b505-444c-8262-481487c86d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 12458555 ' or . = ' 12458555 ')]</value>
+      <webElementGuid>4a7dc2ee-0b7e-45e6-a600-6bad1946a248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

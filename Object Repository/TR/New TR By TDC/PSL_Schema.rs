@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PSL_Schema</name>
+   <tag></tag>
+   <elementGuidId>8880681f-a605-4cbe-8090-0cbdd5405406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div[1]/div/div[2]/app-step-expedition/div/div[1]/div[1]/div[9]/div/div[1]/select/option[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>c0a4ff2e-c1f6-4d14-95bd-0c8c8e899f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1659006481325</value>
+      <webElementGuid>d29fbe66-03bd-4292-b4e0-b0b6fb2e840c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

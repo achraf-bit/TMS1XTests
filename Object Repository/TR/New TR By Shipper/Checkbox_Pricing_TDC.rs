@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox_Pricing_TDC</name>
+   <tag></tag>
+   <elementGuidId>748427f6-2cb3-4028-a141-d185131c121a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div[1]/div[1]/div[6]/app-step-pricing/div/div[1]/div/div/div[1]/div/div[2]/p-checkbox/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>09fbd0f6-8446-497f-b51b-9cf78d61456e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1659516129951</value>
+      <webElementGuid>1f4cf004-f68f-4210-af34-62c4067ef20b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

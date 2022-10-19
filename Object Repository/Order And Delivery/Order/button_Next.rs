@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>12b1b042-a1dd-4744-ad57-91a67ef1e635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-order-creation/div/div/div[2]/app-order-creation-form/div/div[2]/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c030a1e-2842-43c8-97e2-39c7c854d456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary ng-star-inserted</value>
+      <webElementGuid>f47d8a90-9af2-4710-a7a9-a00451c0fe48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-order-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-order-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-footer-buttons ng-star-inserted&quot;]/div[1]/button[@class=&quot;btn btn-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>c9302d6c-9b43-4f30-a354-3308961b76a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-order-creation/div/div/div[2]/app-order-creation-form/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>08c1e85d-8286-4d97-a4e5-82f60d19ebe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total units:'])[1]/following::button[2]</value>
+      <webElementGuid>af5d0997-9cbd-49aa-bdc9-4015d0e99fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total ordered quantity:'])[1]/following::button[2]</value>
+      <webElementGuid>ea4e0b21-7dae-4e5d-8648-5653c45b6477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>512e198d-0a6e-4056-b186-1e68403e8706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
+      <webElementGuid>729d6475-9555-4616-8675-82620b9a08b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>6fcb8ee8-5db2-41c6-a296-403b78860537</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

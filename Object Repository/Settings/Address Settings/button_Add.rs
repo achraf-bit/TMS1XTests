@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>e708ac2e-0e5a-49eb-9638-174e3fe0af35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-primary.btn-shadow.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-adresses/div/div/app-form-adresse/form/div[3]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd062140-342b-45d4-b63f-e15e14be44a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary btn-shadow ng-star-inserted</value>
+      <webElementGuid>db03b947-3f7e-4b5a-8a38-ddb8dea91fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add </value>
+      <webElementGuid>891472ae-0003-4b9d-8dd9-1c5b2be96184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-adresses[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;margin-tb-10&quot;]/div[@class=&quot;form-content&quot;]/app-form-adresse[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;col-md-12 form-adress__wrapper padding-10 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-content col-sm-12 text-right&quot;]/div[@class=&quot;col-md-12&quot;]/button[@class=&quot;btn btn-sm btn-primary btn-shadow ng-star-inserted&quot;]</value>
+      <webElementGuid>c68a4ed1-7dce-45a0-9d56-9fa8af4d5c87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-adresses/div/div/app-form-adresse/form/div[3]/div/button[2]</value>
+      <webElementGuid>e77d776f-9593-4a58-99b3-8f21fdb7da40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>f5863ca6-f1f2-45d6-a139-f84bbf912f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zones :'])[1]/following::button[2]</value>
+      <webElementGuid>74d27f09-fea4-4d2d-a377-42c310dfa660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>e63d7b78-9e97-40f0-a9f8-a48925a772e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
+      <webElementGuid>c0ad167b-481e-421c-9396-105464256f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>2242ed07-276e-4361-94f6-dd8587cd604a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]</value>
+      <webElementGuid>d6259395-9401-4777-98c4-c0a9c9ae83b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Add ' or . = ' Add ')]</value>
+      <webElementGuid>3e68a495-dcf0-4dad-ada0-801541cb360f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

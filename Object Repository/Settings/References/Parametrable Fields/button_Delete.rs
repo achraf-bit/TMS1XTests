@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete</name>
+   <tag></tag>
+   <elementGuidId>7bf35d75-245d-4fe1-966e-4a02d2167a84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div[3]/div/fieldset/div/app-custom-fields/div/div[2]/table/tbody/tr[1]/td[4]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11a24052-435e-4177-a704-0d86d642f236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs button-icon</value>
+      <webElementGuid>a0a4c7c1-7370-4118-bbe1-935eccf881cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6c013b3b-d894-431c-b802-79cfabd7f4b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-right-0-important&quot;]/div[@class=&quot;block-categorie&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/app-custom-fields[@class=&quot;col-md-12 col-xs-12 margin-top-20 ng-star-inserted&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;table&quot;]/table[1]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]/button[@class=&quot;btn btn-xs button-icon&quot;]</value>
+      <webElementGuid>49f2408d-1f46-40d8-9c5e-964c9f5e747c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>b5a898c3-10d9-4a16-b40f-9eeb766d2caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div[3]/div/fieldset/div/app-custom-fields/div/div[2]/table/tbody/tr/td[4]/button</value>
+      <webElementGuid>3628f782-e527-4021-9044-ab5adfb043a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[2]</value>
+      <webElementGuid>f1d0a910-38e5-40db-825d-818f76c11f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::button[3]</value>
+      <webElementGuid>27e337d7-4772-418f-a1da-14913501a681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[7]</value>
+      <webElementGuid>b4945dde-770a-4ba6-8fcf-7f4b88ccd6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[7]</value>
+      <webElementGuid>649c11e2-0d3b-40a8-bee6-7f61584c9800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button</value>
+      <webElementGuid>aef2aeb0-4040-4c88-a640-2e1631bf6600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>7caad290-c398-43d0-95f4-096984bb15b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

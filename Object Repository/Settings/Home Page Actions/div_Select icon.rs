@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select icon</name>
+   <tag></tag>
+   <elementGuidId>0d410d52-498f-4da3-802f-ae3f5c336f5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ng-select[name=&quot;icon&quot;] > div.ng-select-container > div.ng-value-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/form/div/div[2]/div/div[2]/div/ng-select/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15d1e8c1-008f-454c-b11b-eee6ed480041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-value-container</value>
+      <webElementGuid>2e9ce60a-25dd-48f9-99bc-8da19253696b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select icon...</value>
+      <webElementGuid>e5486ed5-cf7c-462b-927b-e46e2c9f9d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/form[@class=&quot;generic-default ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[1]/div[@class=&quot;form-content col-sm-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 new-formcontrol&quot;]/div[@class=&quot;col-md-8 padding-left-0-important padding-right-0-important&quot;]/ng-select[@class=&quot;ng-select ng-select-single ng-select-searchable ng-select-clearable ng-untouched ng-pristine ng-valid ng-select-focused ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container&quot;]/div[@class=&quot;ng-value-container&quot;]</value>
+      <webElementGuid>bd24a4fb-0923-40d9-879e-b848e941535c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/form/div/div[2]/div/div[2]/div/ng-select/div/div</value>
+      <webElementGuid>f561374b-e697-4975-a5ae-2e8a7ae13456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon'])[1]/following::div[3]</value>
+      <webElementGuid>9b640905-7e1e-4b73-9ca3-95d9ed7698d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label'])[1]/following::div[5]</value>
+      <webElementGuid>fd24c352-ee82-4caa-af78-aa603fa4a422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::div[29]</value>
+      <webElementGuid>01399b5b-051a-4213-9cf1-e90c38fa1f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ng-select/div/div</value>
+      <webElementGuid>9571e683-3889-4dde-af35-d684ca1e335f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select icon...' or . = 'Select icon...')]</value>
+      <webElementGuid>a8d550b3-50c1-4b3b-9b7c-7a4e62a59215</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

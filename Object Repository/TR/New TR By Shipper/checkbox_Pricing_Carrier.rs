@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox_Pricing_Carrier</name>
+   <tag></tag>
+   <elementGuidId>938b7b46-8718-4650-b2df-f64cd4924da9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='User_Carrier'])[1]/following::div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37b4ccd8-3080-4a9d-926d-783c7c808310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-box ui-widget ui-corner-all ui-state-default</value>
+      <webElementGuid>f7c15195-41f3-42d6-a1d9-2e99a3fd5eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-demande-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-demande-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-step-pricing[1]/div[@class=&quot;form-root&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid relativePostion&quot;]/div[@class=&quot;row d-flex-w ng-star-inserted&quot;]/div[@class=&quot;tr_card ng-star-inserted&quot;]/div[@class=&quot;tr_card_main&quot;]/div[@class=&quot;cb_select d-flex-jc-c d-flex-w&quot;]/p-checkbox[@class=&quot;margin-bottom-4-important ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ui-chkbox ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default&quot;]</value>
+      <webElementGuid>24c5778c-c597-4a2d-a813-a742096faaf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div/div/div[6]/app-step-pricing/div/div/div/div/div[2]/div/div[2]/p-checkbox/div/div[2]</value>
+      <webElementGuid>5f1691d8-9418-4ed0-958f-f62e16a0f09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='carrier@nthrw.com'])[1]/following::div[6]</value>
+      <webElementGuid>3e1d66a9-9127-4a1d-8022-32e54b23c419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User_Carrier'])[1]/following::div[6]</value>
+      <webElementGuid>aafbcdae-38aa-4adf-aff5-343fd7695d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[3]/preceding::div[1]</value>
+      <webElementGuid>06225e99-1b9e-4964-8228-2e69f7e0f88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transport file'])[1]/preceding::div[4]</value>
+      <webElementGuid>4bee52ce-348d-491d-b3f0-e5abd8b643d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div[2]/p-checkbox/div/div[2]</value>
+      <webElementGuid>0457a6cd-9936-44ac-9941-4aa300673f2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

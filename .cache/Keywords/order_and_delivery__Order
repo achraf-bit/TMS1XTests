@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "655251F363B2D1944C34785388E1E700",
+  "keywordClasses": [
+    {
+      "name": "order_and_delivery.Order",
+      "keywordMethods": [
+        {
+          "name": "new_order",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "confirm_order",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

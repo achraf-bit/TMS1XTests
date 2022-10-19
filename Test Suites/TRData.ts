@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TRData</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>782b5f3b-1562-4f45-a5cf-642a46fb8897</testSuiteGuid>
+   <testCaseLink>
+      <guid>3c9b7261-8318-4eac-9622-d90fa7fb9c12</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TR/New TR Solicitation Of Shipper By TDC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8872aa81-39f7-4ea0-8a71-11f3593c2444</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8872aa81-39f7-4ea0-8a71-11f3593c2444</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user</value>
+         <variableId>27d6e251-7b15-405f-8910-dab103f80211</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8872aa81-39f7-4ea0-8a71-11f3593c2444</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>time</value>
+         <variableId>3cea9ab1-9897-4ad2-9947-16b8ab95f464</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8872aa81-39f7-4ea0-8a71-11f3593c2444</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>price</value>
+         <variableId>a68f2aae-e5f5-4f81-9806-37db4365b281</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To_Address</name>
+   <tag></tag>
+   <elementGuidId>97b51d86-006e-40ce-bdd6-bfac997890be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div[1]/div/div[2]/app-step-expedition/div/div[3]/div/div/div/div[2]/p-virtualscroller/div/div/ul/cdk-virtual-scroll-viewport/div[1]/li[1]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da8715c5-98dc-496a-982a-0bf8ab366279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 card ng-star-inserted</value>
+      <webElementGuid>0a9fb181-6838-41a5-8cb5-15eae8985180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIEVia Avogadro,11TorinoItaly</value>
+      <webElementGuid>fb885cc2-a500-4bee-b4ec-e637098475d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-demande-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-demande-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-step-expedition[1]/div[@class=&quot;form-root&quot;]/div[@class=&quot;options show-options&quot;]/div[@class=&quot;options-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;adresse-wrapper ng-star-inserted&quot;]/p-virtualscroller[1]/div[@class=&quot;ui-virtualscroller ui-widget&quot;]/div[@class=&quot;ui-virtualscroller-content ui-widget-content&quot;]/ul[@class=&quot;ui-virtualscroller-list&quot;]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 card ng-star-inserted&quot;]</value>
+      <webElementGuid>589fc12e-73e7-4861-a109-c7833795798e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div/div/div[2]/app-step-expedition/div/div[3]/div/div/div/div[2]/p-virtualscroller/div/div/ul/cdk-virtual-scroll-viewport/div/li[3]/div</value>
+      <webElementGuid>bb4ee8b7-8b1f-4387-86e7-b24ef0688475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Germany'])[2]/following::div[1]</value>
+      <webElementGuid>a29cd561-fa2b-42f2-8372-eecd213d9279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Braunschweig'])[2]/following::div[2]</value>
+      <webElementGuid>b9e18b6e-223f-4b33-aa39-3d7b5a247546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div</value>
+      <webElementGuid>6bb15ef8-ff21-455a-b574-aa265400ef7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SIEVia Avogadro,11TorinoItaly' or . = 'SIEVia Avogadro,11TorinoItaly')]</value>
+      <webElementGuid>d7879261-a88c-4e03-a3a9-b14caddf7b1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

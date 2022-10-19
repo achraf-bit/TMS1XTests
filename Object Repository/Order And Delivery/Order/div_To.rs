@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To</name>
+   <tag></tag>
+   <elementGuidId>eeca9de3-a9e8-489d-b9a3-3408de29c778</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-order-creation/div/div/div[2]/app-order-creation-form/div/div[2]/div[1]/div/div[1]/app-order-step-order/div/div[2]/div/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abd5680b-b318-48e5-9575-e87832f4361c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 card ng-star-inserted</value>
+      <webElementGuid>ffcb789e-f1e7-4ed6-9ec6-84fa4117a38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XIN FENG ELECTRICAL LTDNO. 16 SOUTH GONGYE AVENUE, TAIFENG INDUSTRIAL ZONE, XIAOLAN TOWNZHONGSHAN CITY, GUANGDONG PROVINCEChina</value>
+      <webElementGuid>7aad9a3e-1fbc-4255-94cd-3391a6684901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;col-md-12 card ng-star-inserted&quot;]</value>
+      <webElementGuid>17b2da25-6967-4b38-8971-70ee4016f689</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;corp&quot;]/app-corp/app-order-creation/div/div/div[2]/app-order-creation-form/div/div[2]/div[1]/div/div[1]/app-order-step-order/div/div[2]/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>72f77f56-215c-4b92-9fa4-ddbf8c1ffac6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

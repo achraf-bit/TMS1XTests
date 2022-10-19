@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UAT</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://tms.uat.mytower.fr/'</initValue>
+      <name>UrlTMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mytower2018+ct1@gmail.com'</initValue>
+      <name>SuperAdminEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cQlZAR1V2CaThNHrQfGK3Q=='</initValue>
+      <name>SuperAdminPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mytower2022+ct1@gmail.com'</initValue>
+      <name>ShipperEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ILo2o15e/q90fA2wuBQBEQ=='</initValue>
+      <name>ShipperPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Carrier@nthrw.com'</initValue>
+      <name>CarrierEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ILo2o15e/q90fA2wuBQBEQ=='</initValue>
+      <name>CarrierPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete_Category</name>
+   <tag></tag>
+   <elementGuidId>23832226-e9de-4421-a304-d727a90aaeb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-accordiontab-2 > p-header.ng-star-inserted > i.cursor-pointer.fa.fa-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-accordiontab-2']/p-header/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3fef4b55-8cd4-4310-a019-9a0dd46ec833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer fa fa-close</value>
+      <webElementGuid>f6cc613a-0b55-4fd1-8436-2196d607600b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-accordiontab-2&quot;)/p-header[@class=&quot;ng-star-inserted&quot;]/i[@class=&quot;cursor-pointer fa fa-close&quot;]</value>
+      <webElementGuid>a419f86b-588b-4cfc-bca8-258d8cffe5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-accordiontab-2']/p-header/i</value>
+      <webElementGuid>45370402-f621-4e4f-9402-c92b0d25f5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-accordiontab[3]/div/a/p-header/i</value>
+      <webElementGuid>aab06fec-9e05-4660-bb44-bdd7ac8d235b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

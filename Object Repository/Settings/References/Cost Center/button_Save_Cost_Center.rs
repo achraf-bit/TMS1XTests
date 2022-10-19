@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save_Cost_Center</name>
+   <tag></tag>
+   <elementGuidId>bb444774-f46d-4cf5-92b1-4f053f839e5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.pull-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div/div/fieldset/div/form/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d033153-2c27-4f72-b4f1-ae965a21605c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm  pull-right</value>
+      <webElementGuid>2de50b83-de12-4dcc-84ea-749324d22adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-left-0-important&quot;]/div[@class=&quot;block-costcenters&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;form-content&quot;]/div[@class=&quot;col-md-12 padding-left-0 form-group&quot;]/div[@class=&quot;col-md-2 padding-right-0 padding-top-20&quot;]/button[@class=&quot;btn btn-sm  pull-right&quot;]</value>
+      <webElementGuid>57329eee-138e-4f26-b78e-31b111f2a256</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div/div/fieldset/div/form/div/div/div[2]/button</value>
+      <webElementGuid>1f58aaa8-b382-4c3d-aa63-a88fc99e48d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost center'])[2]/following::button[1]</value>
+      <webElementGuid>a7c5d229-7f44-4fee-a36f-ef8a47eddfef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost center'])[1]/following::button[1]</value>
+      <webElementGuid>61acffe1-0968-4a56-9ba7-b924c6fcdc5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SRFEWLXM/B630'])[1]/preceding::button[1]</value>
+      <webElementGuid>b725f299-2d17-42a1-9f77-916c1a56d05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEMSWMFG/B630'])[1]/preceding::button[1]</value>
+      <webElementGuid>871a7378-118f-4b67-8671-0bc48a4359cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>1cb49795-0ad4-4a5c-8d4a-a8d9be42277e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

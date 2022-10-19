@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>fbb6ec99-d446-4448-ae69-ed6db8436a21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.pull-right.btn.btn-primary.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-order-visualisation/div/form/div/div/div[2]/app-order-creation-form/div/div/div/div/div[4]/app-order-step-delivery/div/app-order-plannable/div/div/div[2]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3a4ff90-8174-481c-b6f8-f604833ef005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right btn btn-primary btn-sm</value>
+      <webElementGuid>210be4ca-e0aa-4bdf-b0be-c88bd50a2855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>c35b16f1-a971-4942-9c3d-4549019b0f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>10d77437-66e4-4e0c-9a71-e52634d98ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-order-visualisation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper col-md-12 padding-0 ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;new-design_details-contents col-md-12 padding-0&quot;]/div[@class=&quot;collapsible-blocs&quot;]/div[@class=&quot;middle-blocs col-md-6 col-sm-12 col-xs-12 padding-4&quot;]/app-order-creation-form[@class=&quot;d-block ng-star-inserted&quot;]/div[@class=&quot;create-wf-root form-card-no-border&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-order-step-delivery[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-order-plannable[1]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/div[@class=&quot;button_Save_AND_Cancel ng-star-inserted&quot;]/button[@class=&quot;pull-right btn btn-primary btn-sm&quot;]</value>
+      <webElementGuid>50ce5706-3a8e-45bc-8b3e-0002f71b5fe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-order-visualisation/div/form/div/div/div[2]/app-order-creation-form/div/div/div/div/div[4]/app-order-step-delivery/div/app-order-plannable/div/div/div[2]/button</value>
+      <webElementGuid>ed1eecc9-ba0f-4226-b844-d25fb3f3c625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::button[2]</value>
+      <webElementGuid>46ab744c-4b13-4b90-91aa-4b4354748cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transport Ref'])[1]/following::button[2]</value>
+      <webElementGuid>c06335a7-df49-4a7c-9249-f76ed2d87b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>009868e2-9bc5-4d40-ad56-3fde83673203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[2]/preceding::button[2]</value>
+      <webElementGuid>4781ea69-beee-4150-a8a3-bd85ed23b3b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>9ba3b4cf-7988-4b36-b277-110fc2561aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>0159feb9-74b2-4fb5-98b7-0a5fe901dcce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '#' and (text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>882b7415-ee34-4a22-9706-40205076e0a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

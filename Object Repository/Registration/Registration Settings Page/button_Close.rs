@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>508bbc2c-7b9f-4d70-8a7a-aeb143911b17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-toast-close-icon.pi.pi-times.ng-tns-c6-3.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c21c479b-9a48-42c3-86dd-052fc8a67bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-toast-close-icon pi pi-times ng-tns-c6-3 ng-star-inserted</value>
+      <webElementGuid>6e5be9f4-d60a-40de-b8b4-a825e5dd758b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>93095da5-6321-44f2-80cf-d8b30cff5e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;background default-theme&quot;]/app-root[@class=&quot;default-theme&quot;]/p-toast[@class=&quot;ng-tns-c1-0&quot;]/div[@class=&quot;ng-tns-c1-0 ui-toast ui-widget ui-toast-top-right&quot;]/p-toastitem[@class=&quot;ng-tns-c6-3 ng-trigger ng-trigger-toastAnimation ng-tns-c1-0 ng-star-inserted&quot;]/div[@class=&quot;ui-toast-message ui-shadow ui-toast-message-success ng-trigger ng-trigger-messageState&quot;]/div[@class=&quot;ui-toast-message-content&quot;]/a[@class=&quot;ui-toast-close-icon pi pi-times ng-tns-c6-3 ng-star-inserted&quot;]</value>
+      <webElementGuid>2dcbf035-5337-42ef-95a8-06193edbe69d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>d3753e51-c334-4ea8-8645-4a11ff02a5b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

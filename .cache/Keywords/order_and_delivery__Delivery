@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "6BB51E595247AD312393603C7DEAB801",
+  "keywordClasses": [
+    {
+      "name": "order_and_delivery.Delivery",
+      "keywordMethods": [
+        {
+          "name": "confirm_delivery",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

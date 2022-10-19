@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>115aa58d-f44c-4d6f-befc-f8885851d201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.pull-right.btn-sm.mr5.modal_yes_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div[3]/div/fieldset/div/app-custom-fields/div[2]/app-modal-detail-custom-fields/div/div/div/div/form/div[3]/a[1]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab0ca2f1-7ade-4c20-8569-d48e2e03b5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right btn-sm mr5 modal_yes_btn</value>
+      <webElementGuid>c4b8e4fb-d5d0-48c3-ada7-fb3379f56e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>1c6e1778-e98d-47f3-9f72-9d25cf6e35c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-right-0-important&quot;]/div[@class=&quot;block-categorie&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/app-custom-fields[@class=&quot;col-md-12 col-xs-12 margin-top-20 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-modal-detail-custom-fields[1]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;modal-footer&quot;]/a[1]/button[@class=&quot;btn btn-primary pull-right btn-sm mr5 modal_yes_btn&quot;]</value>
+      <webElementGuid>e2511409-1724-44b4-b304-6b7e345585f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f30c0bd-2c47-43a3-befc-b6a9061e00ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right btn-sm mr5 modal_yes_btn</value>
+      <webElementGuid>3272b8fc-aa58-4c84-b6d4-fbd852525b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save </value>
+      <webElementGuid>8c58e5f8-1617-4147-8083-2022c567c9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-cost-centers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-3 padding-right-0-important&quot;]/div[@class=&quot;block-categorie&quot;]/fieldset[@class=&quot;fieldset&quot;]/div[@class=&quot;col-md-12 body-table&quot;]/app-custom-fields[@class=&quot;col-md-12 col-xs-12 margin-top-20 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-modal-detail-custom-fields[1]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;modal-footer&quot;]/a[1]/button[@class=&quot;btn btn-primary pull-right btn-sm mr5 modal_yes_btn&quot;]</value>
+      <webElementGuid>5a1e1ab1-6f22-4bed-9002-fc1770ddf2f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-cost-centers/div/div[3]/div/fieldset/div/app-custom-fields/div[2]/app-modal-detail-custom-fields/div/div/div/div/form/div[3]/a/button</value>
+      <webElementGuid>4a462a05-59a3-41da-b108-5c1652a343c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[1]/following::button[1]</value>
+      <webElementGuid>106d176d-c02c-463f-841e-76e95b7ecb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label:'])[1]/following::button[1]</value>
+      <webElementGuid>d136c4bd-3a3e-46da-b6a7-b1603862a2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>40f12b59-5939-4b51-8e83-d9b389c8b098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>e34d4cf9-4a96-4768-aad8-2a9e95b6bcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>7d1feccf-839e-4561-8bff-874427e0b3a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

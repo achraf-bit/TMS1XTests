@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add quotation</name>
+   <tag></tag>
+   <elementGuidId>7df662d1-e80e-491d-bd6c-b2d71c41570a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app-header&quot;]/app-header/div/div/div[2]/div[13]/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-xs.btn-primary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6124406e-8c66-4b59-a52b-904d4644f086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs btn-primary ng-star-inserted</value>
+      <webElementGuid>b90fd151-3ae6-4f8c-8c90-6c4a3fb5eb05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add quotation</value>
+      <webElementGuid>aa4f6f2b-d50e-46c2-8aaa-33cdfbc57dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-header&quot;)/app-header[1]/div[1]/div[@class=&quot;actionbar-wrapper&quot;]/div[@class=&quot;btn-action-wrapper&quot;]/div[@class=&quot;d-flex ng-star-inserted&quot;]/button[@class=&quot;btn btn-xs btn-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>be4ace51-f904-4b75-99c8-80dde2a3f8eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-header']/app-header/div/div/div[2]/div[13]/button</value>
+      <webElementGuid>6397d416-a5aa-4aef-b8e4-10e7e71162ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSY-A23416'])[1]/following::button[1]</value>
+      <webElementGuid>8cb04fa2-9bf5-4753-ada8-92bd832d38a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::button[1]</value>
+      <webElementGuid>6a3feb43-b653-4fff-a88f-84950c7caf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::button[1]</value>
+      <webElementGuid>7289e2a1-3fee-4d54-8094-7e64c4f3362b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b140d771-7c97-48f3-b385-ecb4816b141a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add quotation' or . = 'Add quotation')]</value>
+      <webElementGuid>7c73b4e2-6cde-47a7-ae4d-00ad3e63eade</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

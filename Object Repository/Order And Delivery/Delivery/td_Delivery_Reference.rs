@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Delivery_Reference</name>
+   <tag></tag>
+   <elementGuidId>ced42cf2-7661-4fef-87ed-f61f8a1c718f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.textCenter.colonne-generic-table.gtbl-td.clickable.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class=&quot;textCenter colonne-generic-table gtbl-td clickable ng-star-inserted&quot;][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c0b9019f-0b1d-48e2-8b56-e5995dfe6bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textCenter colonne-generic-table gtbl-td clickable ng-star-inserted</value>
+      <webElementGuid>1ef4fba5-1a3c-4577-bac2-5c47b81b32bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>FSY-V00007</value>
+      <webElementGuid>f370e119-71d9-45b3-af90-512064591189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> FSY-V00007 </value>
+      <webElementGuid>7f62ff7c-c880-4398-afa8-80a24e8fde77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-6-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/p-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ui-table ui-widget ui-table-resizable ui-table-resizable-fit&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;textCenter colonne-generic-table gtbl-td clickable ng-star-inserted&quot;]</value>
+      <webElementGuid>4a5e5b52-3859-4059-8b44-12ea8c06f568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@class=&quot;textCenter colonne-generic-table gtbl-td clickable ng-star-inserted&quot;][1]</value>
+      <webElementGuid>6a15da92-2f24-4a9b-b1c8-2ad2829362a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of goods availability'])[1]/following::td[1]</value>
+      <webElementGuid>dedf6ac0-3bba-4069-ab9d-baa24563f778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer order reference'])[1]/following::td[1]</value>
+      <webElementGuid>a4d71990-093a-4639-9095-16e748ff0446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/fieldset/div/div/div/app-generic-table-ccp/p-panel/div/div[2]/div/p-table/div/div/table/tbody/tr/td</value>
+      <webElementGuid>d08404c5-bc53-4bde-bc43-5f1067ac5540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@title = 'FSY-V00007' and (text() = ' FSY-V00007 ' or . = ' FSY-V00007 ')]</value>
+      <webElementGuid>81570af1-93cd-4cb4-a83f-464661dd776e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

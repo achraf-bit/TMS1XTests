@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_remove</name>
+   <tag></tag>
+   <elementGuidId>f52f9b0a-f447-41fe-a3c8-f5067a261237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-remove.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ui-panel-0-content&quot;]/div/p-table/div/div[1]/div/div[2]/table/tbody/tr[1]/td[1]/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>215fae89-4237-4505-85c4-8da7d4290e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-remove ng-star-inserted</value>
+      <webElementGuid>700d048d-cd45-413b-ba55-25d8b24607fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>a9000e7d-7753-4817-836e-37557dbbb57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/p-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ui-table ui-widget ui-table-resizable ui-table-resizable-fit&quot;]/div[@class=&quot;ui-table-scrollable-wrapper ng-star-inserted&quot;]/div[@class=&quot;ui-table-scrollable-view&quot;]/div[@class=&quot;ui-table-scrollable-body&quot;]/table[@class=&quot;ui-table-scrollable-body-table&quot;]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;width-70-important text-center gtbl-td ng-star-inserted&quot;]/i[@class=&quot;fa fa-remove ng-star-inserted&quot;]</value>
+      <webElementGuid>875a5234-3241-4197-9a28-ff4b4414f924</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/p-table/div/div/div/div[2]/table/tbody/tr/td/i[2]</value>
+      <webElementGuid>a564c990-3b8f-4ef5-8e18-b0111618f318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>f88292b7-27a1-4b17-b54f-a69b542d8f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Delete']</value>
+      <webElementGuid>54c2b96b-7a61-4a9d-aa22-753e18885d65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

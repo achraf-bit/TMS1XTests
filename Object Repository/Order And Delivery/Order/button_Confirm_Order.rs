@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm_Order</name>
+   <tag></tag>
+   <elementGuidId>18cce32d-0f8c-4e40-a6d0-0cf3e3cad770</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-check.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-header']/app-header/div/div/div[2]/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66a6b89b-20ab-4e43-8737-48c56a8b980f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check ng-star-inserted</value>
+      <webElementGuid>c1e95416-a180-49c7-948a-7c54b538b226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-header&quot;)/app-header[1]/div[1]/div[@class=&quot;actionbar-wrapper&quot;]/div[@class=&quot;btn-action-wrapper&quot;]/div[@class=&quot;d-flex ng-star-inserted&quot;]/button[@class=&quot;btn btn-xs btn-primary ng-star-inserted&quot;]/span[@class=&quot;fa fa-check ng-star-inserted&quot;]</value>
+      <webElementGuid>84166102-f788-4a9e-93f9-12420411fcc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-header']/app-header/div/div/div[2]/div[5]/button/span</value>
+      <webElementGuid>c4b6886d-d917-471e-9624-dd785ebfd1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span</value>
+      <webElementGuid>1823907f-cf82-4a98-a20a-1563089e7c9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

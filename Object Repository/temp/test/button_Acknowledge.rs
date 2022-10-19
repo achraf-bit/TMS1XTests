@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Acknowledge</name>
+   <tag></tag>
+   <elementGuidId>33d9ae1a-6504-4aee-9722-66ce3235a70a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-header']/app-header/div/div/div[2]/div[12]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8864c978-d373-4f6e-896f-ff3a2ff80cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-title</value>
+      <webElementGuid>d92a0dbe-79b4-4d72-a67e-026cb153eca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accuser réception</value>
+      <webElementGuid>05da358a-4dca-4b58-a68e-5ce05e9fa641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-header&quot;)/app-header[1]/div[1]/div[@class=&quot;actionbar-wrapper&quot;]/div[@class=&quot;btn-action-wrapper&quot;]/div[@class=&quot;d-flex ng-star-inserted&quot;]/button[@class=&quot;btn btn-xs btn-primary ng-star-inserted&quot;]/span[@class=&quot;sidebar-title&quot;]</value>
+      <webElementGuid>01be9db9-c318-4eb0-8283-12f4ca376c69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-header']/app-header/div/div/div[2]/div[12]/button/span[2]</value>
+      <webElementGuid>7ebed67c-5b73-4aef-9f3e-f7efb3a1bc51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Associer à une déclaration'])[1]/following::span[2]</value>
+      <webElementGuid>1bdc8d1e-1639-4ad5-8a8b-bc4072c43585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dupliquer'])[1]/following::span[4]</value>
+      <webElementGuid>a54c28a0-5a91-4433-b60a-555a95ce6af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exporter'])[1]/preceding::span[2]</value>
+      <webElementGuid>44ca9bec-e505-45c6-9527-eb66156f4a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accueil'])[1]/preceding::span[5]</value>
+      <webElementGuid>06320930-77b5-487a-88d1-8a4d98a359bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accuser réception']/parent::*</value>
+      <webElementGuid>a8633c23-940a-4812-8fb1-d61b1c820630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/button/span[2]</value>
+      <webElementGuid>1efa7a1c-90e8-4ed4-9015-96e3f0d14fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Accuser réception' or . = 'Accuser réception')]</value>
+      <webElementGuid>6688d476-c854-47b5-b459-6ae7d2619785</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

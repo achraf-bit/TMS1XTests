@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Hi, My Tower_fa fa-caret-down</name>
+   <tag></tag>
+   <elementGuidId>296d018a-baf3-4413-a89f-f9c0fdb672e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dropdownBasic1']/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-caret-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>edb377e3-4665-49e8-b5e3-53c499150b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a31c2b24-0300-4e5f-8737-67fb395c24d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-caret-down</value>
+      <webElementGuid>23fed81a-7f29-45ee-9aad-4cee9925bdab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownBasic1&quot;)/span[@class=&quot;pl15 fz-13&quot;]/i[@class=&quot;fa fa-caret-down&quot;]</value>
+      <webElementGuid>cda8d9c3-01cc-4dc7-90a0-99ada1fac6c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dropdownBasic1']/span/i</value>
+      <webElementGuid>a81cf4c2-e934-4bbb-9343-3b4b00a3acee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span/i</value>
+      <webElementGuid>c4e6ef48-f5cf-440a-8edd-178ba52dfb91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

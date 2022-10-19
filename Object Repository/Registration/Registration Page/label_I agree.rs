@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I agree</name>
+   <tag></tag>
+   <elementGuidId>c267eaad-3494-4b03-b575-6162b2a1d344</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.col-md-12.padding-0.text-left > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content&quot;]/div[2]/div/div[2]/aw-wizard/div/div/form/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>18120c8b-7f31-448f-9ce1-fd8ae04a98b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>accepte1</value>
+      <webElementGuid>b964523f-5575-4400-b0a0-90828033b4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree</value>
+      <webElementGuid>dafe734d-7735-4858-b8ba-27a2fd31eed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;login&quot;]/div[@class=&quot;sides-wrapper&quot;]/div[@class=&quot;right-side&quot;]/aw-wizard[@class=&quot;creat-account__steps horizontal&quot;]/div[@class=&quot;wizard-steps horizontal&quot;]/div[1]/form[@class=&quot;ng-star-inserted ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;form-group col-md-12 padding-0 text-left&quot;]/label[1]</value>
+      <webElementGuid>0853496e-73b4-48c2-8c6b-59fb8f1e8796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b1050e12-17b5-41a6-8b8e-4ff658ed9a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>accepte1</value>
+      <webElementGuid>2b4951fd-afd1-4fe1-942d-6b2b468e89f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree</value>
+      <webElementGuid>e1c4361b-ff7c-4738-b5f5-4e92fa8ab247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;login&quot;]/div[@class=&quot;sides-wrapper&quot;]/div[@class=&quot;right-side&quot;]/aw-wizard[@class=&quot;creat-account__steps horizontal&quot;]/div[@class=&quot;wizard-steps horizontal&quot;]/div[1]/form[@class=&quot;ng-star-inserted ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;form-group col-md-12 padding-0 text-left&quot;]/label[1]</value>
+      <webElementGuid>6e08f712-eaba-4016-b8ef-72d70b4e8ea5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div[2]/aw-wizard/div/div/form/div[2]/label</value>
+      <webElementGuid>1eee95ba-c156-4a27-a00b-48b8c3735896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General condition'])[1]/following::label[1]</value>
+      <webElementGuid>c65984cd-ad38-4722-b945-2b66e0435318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::label[2]</value>
+      <webElementGuid>9463c0e8-bcca-4850-a98f-cd4336b40bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[2]/preceding::label[1]</value>
+      <webElementGuid>44f02138-25cb-46cf-b1d6-79928d645866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[3]/preceding::label[1]</value>
+      <webElementGuid>62bcce48-3489-409d-8b21-3fa55f59bf61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I agree']/parent::*</value>
+      <webElementGuid>187b29d6-64ea-4b58-9dd9-396949d1f348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/label</value>
+      <webElementGuid>a99b7a0a-8be0-4041-aeba-491489d7c7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree' or . = 'I agree')]</value>
+      <webElementGuid>39c27b63-d29a-422e-bfd4-30a42e250d32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

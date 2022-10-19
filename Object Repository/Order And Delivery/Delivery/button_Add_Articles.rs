@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add_Articles</name>
+   <tag></tag>
+   <elementGuidId>a2628c24-eca6-41bc-9c5f-8fb8772358bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class=&quot;btn btn-primary btn-xs ng-star-inserted&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>97301a2a-c9be-409e-9ec8-5bc45c9a74f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus ng-star-inserted</value>
+      <webElementGuid>75af5882-b927-4573-b57d-7682074967da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-4-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/p-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ui-table ui-widget ui-table-resizable ui-table-resizable-fit&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;gtbl-td text-center ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;btn btn-primary btn-xs ng-star-inserted&quot;]/i[@class=&quot;fa fa-plus ng-star-inserted&quot;]</value>
+      <webElementGuid>4e27a7cc-ead2-47dc-9840-4284024a401c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@class=&quot;btn btn-primary btn-xs ng-star-inserted&quot;]</value>
+      <webElementGuid>8fcd05e9-edaf-4441-aadf-fac0f39e5cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>6ba6f94e-164a-4c5f-8fcc-b4555307375e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

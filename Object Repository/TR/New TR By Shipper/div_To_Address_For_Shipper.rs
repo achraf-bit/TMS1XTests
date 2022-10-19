@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To_Address_For_Shipper</name>
+   <tag></tag>
+   <elementGuidId>8d3855d3-62a1-4588-98e0-d723a26ad9b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div[1]/div/div[2]/app-step-expedition/div/div[3]/div/div/div/div[2]/p-virtualscroller/div/div/ul/cdk-virtual-scroll-viewport/div[1]/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a8a06b2-ad19-4b29-ad64-4952e151036c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 card ng-star-inserted</value>
+      <webElementGuid>c942dea5-6f47-450c-aa34-94b234892620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XIN FENG ELECTRICAL LTDNO. 16 SOUTH GONGYE AVENUE, TAIFENG INDUSTRIAL ZONE, XIAOLAN TOWNZHONGSHAN CITY, GUANGDONG PROVINCEChina</value>
+      <webElementGuid>1ce0d172-b5cc-4a96-ba51-9b33d6a3e8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-demande-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-demande-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-step-expedition[1]/div[@class=&quot;form-root&quot;]/div[@class=&quot;options show-options&quot;]/div[@class=&quot;options-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;adresse-wrapper ng-star-inserted&quot;]/p-virtualscroller[1]/div[@class=&quot;ui-virtualscroller ui-widget&quot;]/div[@class=&quot;ui-virtualscroller-content ui-widget-content&quot;]/ul[@class=&quot;ui-virtualscroller-list&quot;]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 card ng-star-inserted&quot;]</value>
+      <webElementGuid>25750b60-7266-4c91-90cd-fa7caf15ff18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div/div/div[2]/app-step-expedition/div/div[3]/div/div/div/div[2]/p-virtualscroller/div/div/ul/cdk-virtual-scroll-viewport/div/li[2]/div</value>
+      <webElementGuid>de3900c5-c9b6-4567-9a36-1f69b1fdf10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='France'])[1]/following::div[1]</value>
+      <webElementGuid>7cbb3eaf-a24b-474b-92a3-0c8bc1968b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Le Plessis belleville'])[1]/following::div[2]</value>
+      <webElementGuid>06f75a0e-aa32-4ae1-9367-cd9e1fdc25f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>e4d0a570-22a9-4667-9b6c-59d72d5602f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'XIN FENG ELECTRICAL LTDNO. 16 SOUTH GONGYE AVENUE, TAIFENG INDUSTRIAL ZONE, XIAOLAN TOWNZHONGSHAN CITY, GUANGDONG PROVINCEChina' or . = 'XIN FENG ELECTRICAL LTDNO. 16 SOUTH GONGYE AVENUE, TAIFENG INDUSTRIAL ZONE, XIAOLAN TOWNZHONGSHAN CITY, GUANGDONG PROVINCEChina')]</value>
+      <webElementGuid>5c4c3378-e81b-4d9a-8514-09dc779201ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

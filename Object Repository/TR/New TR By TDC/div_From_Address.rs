@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_From_Address</name>
+   <tag></tag>
+   <elementGuidId>fb1a9dcf-0ebd-4bf6-a471-786c3616f916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div[1]/div/div[2]/app-step-expedition/div/div[3]/div/div/div/div[2]/p-virtualscroller/div/div/ul/cdk-virtual-scroll-viewport/div[1]/li[1]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.card.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0c7f50e-cca4-47a0-afa6-1c4558e9b260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 card ng-star-inserted</value>
+      <webElementGuid>6906f87a-3265-4057-b67a-76e2eaa7bde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VOLKSWAGEN A.G.Werk 1 Braunschweig, Gifhorner Strasse 180BraunschweigGermany</value>
+      <webElementGuid>34abba6b-3fa4-45b0-96aa-b848a909cff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-demande-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-demande-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-step-expedition[1]/div[@class=&quot;form-root&quot;]/div[@class=&quot;options show-options&quot;]/div[@class=&quot;options-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;adresse-wrapper ng-star-inserted&quot;]/p-virtualscroller[1]/div[@class=&quot;ui-virtualscroller ui-widget&quot;]/div[@class=&quot;ui-virtualscroller-content ui-widget-content&quot;]/ul[@class=&quot;ui-virtualscroller-list&quot;]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 card ng-star-inserted&quot;]</value>
+      <webElementGuid>4a10c657-d97f-4131-a9e2-cf30d6c45c93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div/div/div[2]/app-step-expedition/div/div[3]/div/div/div/div[2]/p-virtualscroller/div/div/ul/cdk-virtual-scroll-viewport/div/li/div</value>
+      <webElementGuid>01c6cd28-ad4c-4cc2-b56d-8ab2d24f293d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an address:'])[1]/following::div[6]</value>
+      <webElementGuid>062390ba-3a52-43a7-bacb-0ad341840eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eligible for consolidation'])[1]/following::div[11]</value>
+      <webElementGuid>01291f90-b674-4660-aa24-a49fe27afc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li/div</value>
+      <webElementGuid>a5d8bbd0-c26d-4bfe-b2ec-cb5bdc65f977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'VOLKSWAGEN A.G.Werk 1 Braunschweig, Gifhorner Strasse 180BraunschweigGermany' or . = 'VOLKSWAGEN A.G.Werk 1 Braunschweig, Gifhorner Strasse 180BraunschweigGermany')]</value>
+      <webElementGuid>cc89a901-ce79-4f67-a394-301fdaf00c18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_Consolidation</name>
+   <tag></tag>
+   <elementGuidId>7930f236-64ce-4da3-a6f5-fee10f4ba5e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div[1]/div/div[2]/app-step-expedition/div/div[1]/div[1]/div[7]/div/div/div/div[1]/label/p-radiobutton/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-radiobutton-icon.ui-clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1392d40-e4b6-4430-a579-0b7c2710cdcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-radiobutton-icon ui-clickable</value>
+      <webElementGuid>c14c194f-d7fb-493a-ae8d-86cae1393096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>ui-radiobutton-icon ui-clickab</value>
+      <webElementGuid>1a683cec-2689-48ae-9fe8-25a899ae9b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>dec8847b-818c-4b1f-919b-7b424f0f4f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-demande-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-demande-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-step-expedition[1]/div[@class=&quot;form-root&quot;]/div[@class=&quot;content col-md-12&quot;]/div[@class=&quot;section row margin-right--14&quot;]/div[@class=&quot;col-md-12 col-xs-12 d-flex-ai-c generic-inputs__style ng-star-inserted&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;col-md-12 new-formcontrol text-center&quot;]/div[@class=&quot;text-left ng-star-inserted&quot;]/div[@class=&quot;d-inline-block padding-right-15 ng-star-inserted&quot;]/label[@class=&quot;upperCase&quot;]/p-radiobutton[@class=&quot;ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;ui-radiobutton ui-widget&quot;]/div[@class=&quot;ui-radiobutton-box ui-widget ui-state-default ui-state-active&quot;]/span[@class=&quot;ui-radiobutton-icon ui-clickable&quot;]</value>
+      <webElementGuid>b093a2fe-21c5-454f-acac-6eee8ddf218e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-demande-creation/div/div/div[2]/app-demande-creation-form/div/div[2]/div/div/div[2]/app-step-expedition/div/div/div/div[7]/div/div/div/div/label/p-radiobutton/div/div[2]/span</value>
+      <webElementGuid>3e037011-f4ac-43d7-b2ae-414f40d05861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-radiobutton/div/div[2]/span</value>
+      <webElementGuid>638bcdbe-3cef-4e60-bd11-576a937a59a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

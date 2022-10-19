@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_Stackable</name>
+   <tag></tag>
+   <elementGuidId>b71eda5f-d4e7-4044-b9e8-8baaeed7dab6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-type-units/div/app-generic-table/p-dialog/div/div[2]/div/div[8]/div[2]/p-checkbox/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b207ae1b-74ca-4749-823e-b9e92d296d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-box ui-widget ui-corner-all ui-state-default</value>
+      <webElementGuid>cc7b511a-1a91-45bf-84ba-def248e3bc4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;settings-root&quot;]/div[@class=&quot;settings-content&quot;]/app-settings-my-company[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content_wrapper&quot;]/div[@class=&quot;panel panel-visible panel-table&quot;]/div[@class=&quot;col-md-12 padding-0&quot;]/app-type-units[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 no-padding type-unit-table&quot;]/app-generic-table[1]/p-dialog[@class=&quot;ng-tns-c31-4 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c31-4 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-draggable ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content&quot;]/div[@class=&quot;ui-g ui-fluid form-group ng-star-inserted&quot;]/div[@class=&quot;ui-g-12 ng-star-inserted&quot;]/div[@class=&quot;ui-g-8 ng-star-inserted&quot;]/p-checkbox[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ui-chkbox ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default&quot;]</value>
+      <webElementGuid>6c218400-3fbe-4a99-bf8b-1facab2d9e40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-settings/div/div[3]/app-settings-my-company/div/div[2]/div/app-type-units/div/app-generic-table/p-dialog/div/div[2]/div/div[8]/div[2]/p-checkbox/div/div[2]</value>
+      <webElementGuid>74e4383b-2a99-4ff7-a6bf-7307b0d93cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stackable :'])[1]/following::div[4]</value>
+      <webElementGuid>b518c30e-7aba-4aeb-87dd-c1e7a5052ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volume (m3) :'])[1]/following::div[7]</value>
+      <webElementGuid>2f800fa0-872a-4962-88a3-f2b468de8042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Container :'])[1]/preceding::div[1]</value>
+      <webElementGuid>d98a7c0c-00da-4bdf-8c28-03b8e333e24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-btn'])[6]/preceding::div[2]</value>
+      <webElementGuid>1fd5ace0-b781-4016-8970-d8ad206addf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-checkbox/div/div[2]</value>
+      <webElementGuid>efcd611b-9331-499f-99c0-5b42a1d24d69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

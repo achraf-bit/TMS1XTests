@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add_Exchange_Rates</name>
+   <tag></tag>
+   <elementGuidId>7b65127c-71f7-4595-9633-ad6157c2c4b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-clickable.fa.fa-plus-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0']/div/p-header/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d52deea6-8d9e-439e-9eec-bacb274c81aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8c0598dd-6ae7-4c5b-a4af-a26939b925ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-clickable fa fa-plus-circle</value>
+      <webElementGuid>b38afa5e-c373-4dbd-92fd-f942f20ff56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0&quot;)/div[@class=&quot;ng-tns-c31-1 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/p-header[1]/div[@class=&quot;table-header ng-star-inserted&quot;]/button[@class=&quot;genericTable-icon ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ng-star-inserted&quot;]/span[@class=&quot;ui-button-icon-left ui-clickable fa fa-plus-circle&quot;]</value>
+      <webElementGuid>c75609f2-e542-4d8e-8497-644d2a605eee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0']/div/p-header/div/button/span</value>
+      <webElementGuid>fe65693d-15ba-4c9a-a5e3-d8371c270340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>b06df123-c09d-4920-b0a9-76dfa7ae2c12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

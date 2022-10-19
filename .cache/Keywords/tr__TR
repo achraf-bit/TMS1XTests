@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "0CDC485EEA292893E3A5A3E4DF36384D",
+  "keywordClasses": [
+    {
+      "name": "tr.TR",
+      "keywordMethods": [
+        {
+          "name": "TR_in_Process_waiting_For_Quote",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "TR_waiting_For_Confirmation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "TR_confirmed",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verify_freight_Audit",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>1007a2c0-813e-428a-8fc8-8644e6e5faa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/p-table/div/div/table/tbody/tr/td/i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>94cfea09-aee2-4cab-a1f4-abd63b23887a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit ng-star-inserted</value>
+      <webElementGuid>a5a4c297-7a19-4407-a764-ce3758f1d24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Modifier</value>
+      <webElementGuid>07665a17-4971-4658-9c56-19b44999f4b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/p-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ui-table ui-widget ui-table-resizable ui-table-resizable-fit&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;width-70-important text-center gtbl-td ng-star-inserted&quot;]/i[@class=&quot;fa fa-edit ng-star-inserted&quot;]</value>
+      <webElementGuid>0ebe3a6d-8cc2-473c-84a6-6c34a790af84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/p-table/div/div/table/tbody/tr/td/i</value>
+      <webElementGuid>315ba2ac-deb3-418a-97b8-35a2c453ccc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/i</value>
+      <webElementGuid>d0ffa4e5-18cd-40a5-b91e-b9633b1451bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Modifier']</value>
+      <webElementGuid>ac5ab77f-3ed7-4fb6-b3a3-b8b45aa4efb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

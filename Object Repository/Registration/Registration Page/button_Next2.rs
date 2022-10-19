@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next2</name>
+   <tag></tag>
+   <elementGuidId>33a4293d-06c8-4049-ad1a-4d91067480de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content&quot;]/div[2]/div/div[2]/aw-wizard/div/aw-wizard-step[2]/form/div[14]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>616f1518-5b76-4bd6-9343-f1941e1c7033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dark-login login-buttons</value>
+      <webElementGuid>bcd255de-d4de-4408-9bc1-5c2e28aed208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Suivant </value>
+      <webElementGuid>50cba390-a080-4bac-925e-f94a1867c16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;login&quot;]/div[@class=&quot;sides-wrapper&quot;]/div[@class=&quot;right-side&quot;]/aw-wizard[@class=&quot;creat-account__steps horizontal&quot;]/div[@class=&quot;wizard-steps horizontal&quot;]/aw-wizard-step[2]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-group col-md-12 padding-0 text-right ng-star-inserted&quot;]/button[@class=&quot;btn btn-dark-login login-buttons&quot;]</value>
+      <webElementGuid>ccc94c68-d6fb-4a86-901e-5c246bcd21e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div[2]/aw-wizard/div/aw-wizard-step[2]/form/div[14]/button[2]</value>
+      <webElementGuid>7abeb55f-218f-401a-9926-c53fa7419f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Précédent'])[1]/following::button[1]</value>
+      <webElementGuid>8930fb60-a209-4b6c-a4ff-7f0b552b230c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo'])[1]/following::button[2]</value>
+      <webElementGuid>4d4a74c1-33a9-4241-b3e5-1efe778967e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>9fdc9d23-6678-467c-b7c3-13233b7bf0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
+      <webElementGuid>73f508b0-4964-4f90-bf52-8ba7f2ab0089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>d3043797-3fc2-4ba0-ace9-1be26c4c68d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Suivant ' or . = ' Suivant ')]</value>
+      <webElementGuid>7b916d85-0c38-4979-a5fe-c55209860452</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

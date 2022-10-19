@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EUR - Euro</name>
+   <tag></tag>
+   <elementGuidId>8c819fd2-f1f4-4c45-ad83-344dd3f68f9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class=&quot;ng-option ng-option-marked ng-star-inserted&quot;][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a166d203c8f1-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2761de1-ba91-4c7d-8ae3-1f7aeabdc4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-option ng-option-marked ng-star-inserted</value>
+      <webElementGuid>91387ba1-17ff-425e-a3e4-5cd915178ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>c77ae03f-f4b3-4ad4-8757-f08ba8108a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>a166d203c8f1-0</value>
+      <webElementGuid>20da6ea2-234e-44b8-ad5f-ee0b15e54bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EUR - Euro</value>
+      <webElementGuid>4983740a-d372-40f1-b356-4462779a1525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a166d203c8f1-0&quot;)</value>
+      <webElementGuid>2837e1c0-83bf-41b9-b91e-ddaf301f4d17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class=&quot;ng-option ng-option-marked ng-star-inserted&quot;][1]</value>
+      <webElementGuid>42a362d6-cd7b-410f-b500-37a6ce5c2053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel[@id='a166d203c8f1']/div/div[2]/div</value>
+      <webElementGuid>b81bf2c4-abd0-44a0-ad17-5efef1b81ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a currency ...'])[1]/following::div[5]</value>
+      <webElementGuid>b4ba3851-8ea2-49d6-98ea-f92e91883213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice currency'])[1]/following::div[9]</value>
+      <webElementGuid>035dc5c8-2b5c-47ad-9975-727eb2c476c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD - United States dollar'])[1]/preceding::div[1]</value>
+      <webElementGuid>847b705e-edd2-4ca1-818a-c308342fb777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div</value>
+      <webElementGuid>b2050802-1dfe-446f-ada8-9e720997695d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'a166d203c8f1-0' and (text() = 'EUR - Euro' or . = 'EUR - Euro')]</value>
+      <webElementGuid>14b44b81-1877-4b7e-b27d-279d7a1eab09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Beginning_Day</name>
+   <tag></tag>
+   <elementGuidId>98de2050-2914-47ad-a69b-731c467c33c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::div[41]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aac2ca1c-49f6-4912-8324-c79cdfc4f3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-light ng-star-inserted</value>
+      <webElementGuid>7bbadb6a-84e2-4031-a41f-5c9c2f0715f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>19</value>
+      <webElementGuid>e9470370-5a65-471a-bd20-457baa194285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;background aurora-theme&quot;]/ngb-datepicker[@class=&quot;dropdown-menu show ngb-dp-body ng-star-inserted&quot;]/div[@class=&quot;ngb-dp-months&quot;]/div[@class=&quot;ngb-dp-month ng-star-inserted&quot;]/ngb-datepicker-month-view[1]/div[@class=&quot;ngb-dp-week ng-star-inserted&quot;]/div[@class=&quot;ngb-dp-day ng-star-inserted&quot;]/div[@class=&quot;btn-light ng-star-inserted&quot;]</value>
+      <webElementGuid>9af79fcc-6ef1-4cc3-8d87-ee254f7d7f25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::div[41]</value>
+      <webElementGuid>08e9034e-4060-4d02-b777-02b41948cfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[42]</value>
+      <webElementGuid>632192c6-0ca1-4f7b-8905-73c31dd25de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='19']/parent::*</value>
+      <webElementGuid>ac970244-0138-45ba-95bc-fadc3946ed3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[5]/div</value>
+      <webElementGuid>47803afc-0221-4afd-855b-d4ee4e767287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '19' or . = '19')]</value>
+      <webElementGuid>c6d639c0-7a30-4463-beb6-ecf97c56b915</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add_Action_Button</name>
+   <tag></tag>
+   <elementGuidId>c307313d-0791-4472-9967-a3ccf6f228ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-clickable.fa.fa-plus-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0']/div/p-header/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>309ea3cb-3ae8-4d8d-bfaf-ce8ad42ba0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b8e07b2a-00cb-4b5b-b0b7-f19d5a34e257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-clickable fa fa-plus-circle</value>
+      <webElementGuid>fe4a2858-c9ed-431f-b075-2ead1d5f93fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0&quot;)/div[@class=&quot;ng-tns-c31-1 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/p-header[1]/div[@class=&quot;table-header ng-star-inserted&quot;]/button[@class=&quot;genericTable-icon ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ng-star-inserted&quot;]/span[@class=&quot;ui-button-icon-left ui-clickable fa fa-plus-circle&quot;]</value>
+      <webElementGuid>5607ddce-1673-4b34-bc67-794fb80ebd04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0']/div/p-header/div/button/span</value>
+      <webElementGuid>cbcb0c2b-c8e6-435e-8c1e-647fdc1f7652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>eeb4a354-2414-434b-b062-3dd397b6b076</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

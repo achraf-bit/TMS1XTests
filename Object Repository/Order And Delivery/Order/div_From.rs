@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_From</name>
+   <tag></tag>
+   <elementGuidId>4ccdeccb-fc8a-4b8b-9100-054fa63c8164</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.card.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;corp&quot;]/app-corp/app-order-creation/div/div/div[2]/app-order-creation-form/div/div[2]/div[1]/div/div[1]/app-order-step-order/div/div[2]/div/div/div/div[2]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84743f66-02b0-47c3-af1b-4e1d4ab03437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 card ng-star-inserted</value>
+      <webElementGuid>01e19835-2ba5-4b2d-b501-8c43a9472f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Feilo Sylvania France 53 route de ParisLe Plessis bellevilleFrance</value>
+      <webElementGuid>28af4d4d-7d3d-44fa-b68d-67d474d432e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;corp&quot;)/app-corp[1]/app-order-creation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-padding&quot;]/div[@class=&quot;form-host&quot;]/div[@class=&quot;form&quot;]/app-order-creation-form[1]/div[@class=&quot;create-wf-root form-card&quot;]/div[@class=&quot;wf-body&quot;]/div[@class=&quot;wf-body-left&quot;]/div[@class=&quot;wf-steps full-width read-only&quot;]/div[@class=&quot;wf-step&quot;]/app-order-step-order[1]/div[@class=&quot;form-root&quot;]/div[@class=&quot;options show-options&quot;]/div[@class=&quot;options-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;adresse-wrapper ng-star-inserted&quot;]/div[@class=&quot;col-md-12 card ng-star-inserted&quot;]</value>
+      <webElementGuid>bb954d43-4cbc-4cc9-a3df-4fce0e9621cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='corp']/app-corp/app-order-creation/div/div/div[2]/app-order-creation-form/div/div[2]/div/div/div/app-order-step-order/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>0f1e1651-bfcb-4a22-b846-934d63476f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an address:'])[1]/following::div[3]</value>
+      <webElementGuid>85eef3c9-1317-49e5-aa3d-f870a97b775c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target date :'])[1]/following::div[14]</value>
+      <webElementGuid>3e10eed9-61ae-4248-ade2-9a84939b1989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>a985dde2-e858-413b-a6de-c43d642c1f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Feilo Sylvania France 53 route de ParisLe Plessis bellevilleFrance' or . = 'Feilo Sylvania France 53 route de ParisLe Plessis bellevilleFrance')]</value>
+      <webElementGuid>be32abdd-b576-44b6-a8c6-e67600e3b297</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

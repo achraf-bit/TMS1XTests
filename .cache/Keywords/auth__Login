@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "17008825F9AE65BC4A6B6015235762AB",
+  "keywordClasses": [
+    {
+      "name": "auth.Login",
+      "keywordMethods": [
+        {
+          "name": "loginTDC",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginShipper",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginCarrier",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

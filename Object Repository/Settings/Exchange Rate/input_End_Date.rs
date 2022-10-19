@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_End_Date</name>
+   <tag></tag>
+   <elementGuidId>f6a7d311-9bc5-49cf-9eae-17121c9c3765</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dateFin > div.col-md-12.nopadding.date-picker_wrapper > div > div.input-group > input.form-control.date-picker-input.ng-pristine.ng-invalid.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-datetime-picker[@id='dateFin']/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3e8a9a82-c6e3-41e5-9d39-b32c770dac95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control date-picker-input ng-pristine ng-invalid ng-touched</value>
+      <webElementGuid>4a646c72-f7c4-4f62-b302-90b8f51c25fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>container</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>176e9c92-a98c-478b-9d8b-c963878f5d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>dd/mm/yyyy</value>
+      <webElementGuid>18cd18f9-3916-4acb-90db-96041e67fffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dateFin&quot;)/div[@class=&quot;col-md-12 nopadding date-picker_wrapper&quot;]/div[1]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control date-picker-input ng-pristine ng-invalid ng-touched&quot;]</value>
+      <webElementGuid>0b7401c2-e39b-4a6e-b42b-656d547ba376</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-datetime-picker[@id='dateFin']/div/div/div/input</value>
+      <webElementGuid>3984e3ff-13bb-4379-8f3b-22af8b80d1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/app-datetime-picker/div/div/div/input</value>
+      <webElementGuid>887e76cc-bac3-49e8-80a9-69a51966f49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'dd/mm/yyyy']</value>
+      <webElementGuid>b7054fc8-9b28-4d78-a058-4cfb0e4c1ff4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
