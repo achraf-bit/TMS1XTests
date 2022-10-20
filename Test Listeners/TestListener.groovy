@@ -21,25 +21,28 @@ import com.kms.katalon.core.annotation.AfterTestCase
 import com.kms.katalon.core.annotation.AfterTestSuite
 import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
-import com.kms.katalon.core.configuration.RunConfiguration
 
-class RegistrationTestListener {
-	/**
-	 * Executes after every test case ends.
-	 * @param testCaseContext related information of the executed test case.
-	 */
-/*	@AfterTestCase
-	def sampleAfterTestCase(TestCaseContext testCaseContext) {
-		println testCaseContext.getTestCaseId()
-		println testCaseContext.getTestCaseStatus()
-	
-	def testName= RunConfiguration.getExecutionSourceName().toString()
-	    WebUI.takeScreenshot(GlobalVariable.ssPath+testName+'.png')
-	}*/
-  @BeforeTestCase
-  def sampleBeforeTestCase(TestCaseContext testCaseContext) {
-     String testCaseId = testCaseContext.getTestCaseId()
-        GlobalVariable.currentTestCaseName = testCaseId.substring((testCaseId.lastIndexOf("/").toInteger()) + 1)
+class TestListener {
+ /**
+* Executes before every test case starts.
+* @param testCaseContext related information of the executed test case.
+*/
+@BeforeTestCase
+def sampleBeforeTestCase(TestCaseContext testCaseContext) {	
+	println testCaseContext.getTestCaseId()		
+	println testCaseContext.getTestCaseVariables()
+	String testCaseId = testCaseContext.getTestCaseId()
+	GlobalVariable.currentTestCaseName = testCaseId.substring((testCaseId.lastIndexOf("/").toInteger()) + 1)
+	println GlobalVariable.currentTestCaseName
+	println ("********************** test case **************")	
 }
-	
+
+/**
+* Executes before every test suite starts.
+* @param testSuiteContext: related information of the executed test suite.
+*/
+@BeforeTestSuite
+def sampleBeforeTestSuite(TestSuiteContext testSuiteContext) {
+	println testSuiteContext.getTestSuiteId()
+} 
 }

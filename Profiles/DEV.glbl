@@ -39,4 +39,9 @@
       <initValue>'ILo2o15e/q90fA2wuBQBEQ=='</initValue>
       <name>CarrierPassword</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>currentTestCaseName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
