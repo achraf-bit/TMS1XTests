@@ -1,19 +1,21 @@
 {
-  "keywordFileContentHash": "D10701F05BE4C9512731CE4542C96CBF",
+  "keywordFileContentHash": "75C3E9429087917285A4DD81B0CC21C7",
   "keywordClasses": [
     {
       "name": "auth.Registration",
       "keywordMethods": [
         {
           "name": "roles",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "registration",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * registration\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
