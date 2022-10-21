@@ -79,11 +79,11 @@ class Registration {
 
 	@Keyword
 	def registration(){
-
+		
 		WebUI.openBrowser('')
 		
 		WebUI.navigateToUrl(GlobalVariable.UrlTMS)
-		
+
 		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/button_Create Account'))
 
 		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Last Name'), 'user4')
