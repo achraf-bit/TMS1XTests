@@ -43,7 +43,6 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.configuration.RunConfiguration
 
 
-
 class Registration {
 
 
@@ -82,15 +81,84 @@ class Registration {
 	def registration(){
 
 		WebUI.openBrowser('')
+		
+		WebUI.navigateToUrl(GlobalVariable.UrlTMS)
+		
+		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/button_Create Account'))
 
-		WebUI.navigateToUrl('https://tms.dev.mytower.fr/')
+		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Last Name'), 'user4')
 
-		WebUI.setText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_username'), 'mytower2018+soungsid+chargeur@gmail.com')
+		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_First Name'), 'testA')
 
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_password'),
-				'cQlZAR1V2CaThNHrQfGK3Q==')
+		roles();
 
-		WebUI.click(findTestObject('Object Repository/Page_Sign in to MyTower/input_Forgotten your password_submit pointer'))
+		String ts = System.currentTimeMillis().toString()
+
+		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Email'), ts + "@test.com")
+
+
+		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Address'), 'add1')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Registration/Registration Page/input_Password'), 'ILo2o15e/q90fA2wuBQBEQ==')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Registration/Registration Page/input_Confirm Password'), 'ILo2o15e/q90fA2wuBQBEQ==')
+
+		WebUI.click(findTestObject('Registration/Registration Page/button_Next1'))
+
+		if(GlobalVariable.currentTestCaseName == "Registration Shipper") {
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_SIREN'), '130000000')
+		}
+		else {
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_SIREN'), '131000000')
+
+		}
+
+
+		if (findTestObject('Object Repository/Registration/Registration Page/input_Company_Code') == null) {
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Company_Code'), 'AT')
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Company_Name'), 'Automatisation de test')
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Group'), 'ATG')
+		}
+
+		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_NIC'), '13131')
+
+		if (findTestObject('Object Repository/Registration/Registration Page/input_NIC') == null) {
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Establishment_Name'), 'Etab1')
+
+			WebUI.selectOptionByValue(findTestObject('Object Repository/Registration/Registration Page/select_Country_Name'), '148: Object',
+					true)
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_City'), 'casablanca')
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/textarea_Address'), 'add1')
+
+			WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Phone2'), '0612345678')
+		}
+
+		WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ARROW_DOWN))
+
+		WebUI.click(findTestObject('Registration/Registration Page/button_Next2'))
+
+		WebUI.click(findTestObject('Registration/Registration Page/label_I agree'))
+
+		WebUI.click(findTestObject('Registration/Registration Page/button_Next3'))
+
+		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/button_Finish'))
+
+		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/div_Congratulations Your MyTower account is created'))
+
+		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/div_Information'))
+
+		WebUI.verifyElementVisible(findTestObject('Object Repository/Registration/Registration Page/div_Information'))
+
+		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/button_Ok'))
+
+
+
 
 	}
 }
