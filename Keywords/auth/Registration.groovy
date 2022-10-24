@@ -85,7 +85,7 @@ class Registration {
 
 		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Last Name'), 'user4')
 
-		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_First Name'), 'testA')
+	    WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/Page_MyTower/input_First Name_prenom'), 'testA')
 
 		roles();
 
