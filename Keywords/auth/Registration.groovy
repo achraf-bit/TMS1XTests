@@ -42,7 +42,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.configuration.RunConfiguration
 
-
 class Registration {
 
 
@@ -79,10 +78,8 @@ class Registration {
 
 	@Keyword
 	def registration(){
-		
-		WebUI.openBrowser('')
-		
-		WebUI.navigateToUrl(GlobalVariable.UrlTMS)
+
+		WebUI.openBrowser(GlobalVariable.UrlTMS)
 
 		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/button_Create Account'))
 

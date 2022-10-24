@@ -36,7 +36,7 @@ class RegistrationTestListener {
 	def testName= RunConfiguration.getExecutionSourceName().toString()
 	    WebUI.takeScreenshot(GlobalVariable.ssPath+testName+'.png')
 	}*/
-  @BeforeTestCase
+	@BeforeTestCase
   def sampleBeforeTestCase(TestCaseContext testCaseContext) {
      String testCaseId = testCaseContext.getTestCaseId()
         GlobalVariable.currentTestCaseName = testCaseId.substring((testCaseId.lastIndexOf("/").toInteger()) + 1)

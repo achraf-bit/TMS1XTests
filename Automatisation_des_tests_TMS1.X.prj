@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>TMS1XTests</name>
+   <name>Automatisation_des_tests_TMS1.X</name>
    <tag></tag>
-   <UUID>01c361fa-fb16-4cf1-b983-d902fdee3ca4</UUID>
+   <UUID>0ee16bb6-4890-4e54-af5c-5a969a53d4ac</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Admin\Desktop\stage\code\TMS1XTests (1)\TMS1XTests.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Admin\Downloads\1.X-main\1.X-main\Automatisation_des_tests_TMS1.X.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

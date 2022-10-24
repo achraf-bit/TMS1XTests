@@ -3,10 +3,10 @@
    <description></description>
    <name>DEV</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'tms.airbus.uat.mytower.fr'</initValue>
+      <initValue>'https://prism.dev.mytower.io/login'</initValue>
       <name>UrlTMS</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -38,10 +38,5 @@
       <description></description>
       <initValue>'ILo2o15e/q90fA2wuBQBEQ=='</initValue>
       <name>CarrierPassword</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>''</initValue>
-      <name>currentTestCaseName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
