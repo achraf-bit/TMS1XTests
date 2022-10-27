@@ -82,7 +82,9 @@ class Registration {
 		WebUI.openBrowser(GlobalVariable.UrlTMS)
 
 		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/Signin_button'))
-
+		
+		println('####### hello it passed ######') 
+		
 		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Last Name'), 'user4')
 
 		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/Page_MyTower/input_First Name_prenom'), 'testA')
