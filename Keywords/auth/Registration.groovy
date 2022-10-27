@@ -81,11 +81,11 @@ class Registration {
 
 		WebUI.openBrowser(GlobalVariable.UrlTMS)
 
-		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/button_Create Account'))
+		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/Signin_button'))
 
 		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/input_Last Name'), 'user4')
 
-	    WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/Page_MyTower/input_First Name_prenom'), 'testA')
+		WebUI.setText(findTestObject('Object Repository/Registration/Registration Page/Page_MyTower/input_First Name_prenom'), 'testA')
 
 		roles();
 
