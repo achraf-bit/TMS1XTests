@@ -81,7 +81,7 @@ class Registration {
 
 		WebUI.openBrowser(GlobalVariable.UrlTMS)
 		
-		WebUI.waitForElementPresent(findTestObject('Object Repository/Registration/Registration Page/Signin_button'))
+		WebUI.waitForElementPresent(findTestObject('Object Repository/Registration/Registration Page/Signin_button'), 0)
 		
 		WebUI.click(findTestObject('Object Repository/Registration/Registration Page/Signin_button'))
 
