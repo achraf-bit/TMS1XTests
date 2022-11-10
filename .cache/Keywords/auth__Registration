@@ -6,14 +6,16 @@
       "keywordMethods": [
         {
           "name": "roles",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "registration",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * registration\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
